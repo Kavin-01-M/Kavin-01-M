@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="a_wide_cinematic_cyber_hacker_style_banner_image.png" alt="Kavin Manivel M GitHub Banner" width="100%" />
+  <img src="ChatGPT Image Jul 14, 2026, 07_41_30 PM.png" alt="Kavin Manivel M GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kavin Manivel M</h1>
@@ -16,7 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavin-01-M&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Kavin-01-M&label=Profile%20Views&color=00ff41&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -31,11 +34,13 @@ public class KavinManivel {
     String degree = "B.E. Computer Science Engineering";
     String location = "Tamil Nadu, India";
 
-    String[] currentlyLearning = {
+    String[] skills = {
+        "Java",
         "Spring Boot",
         "MySQL",
-        "REST APIs",
-        "Full Stack Development"
+        "HTML",
+        "CSS",
+        "JavaScript"
     };
 
     String currentProject = "Smart Classroom Management System";
@@ -56,16 +61,25 @@ public class KavinManivel {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41" alt="Java" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00FF41" alt="Spring Boot" />
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" alt="MySQL" />
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5" />
+
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" alt="CSS3" />
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41" alt="Bootstrap" />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git" />
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" alt="VS Code" />
 
 </p>
 
@@ -90,11 +104,17 @@ A web application developed using **Java, Spring Boot, Thymeleaf and MySQL** to 
 <p align="left">
 
 <a href="https://github.com/Kavin-01-M/Smart-Classroom-Management-System">
-  <img src="https://img.shields.io/badge/View_Project-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+  <img
+    src="https://img.shields.io/badge/View_Project-00FF41?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Project"
+  />
 </a>
 
 <a href="https://smart-classroom-management-system-production-73d4.up.railway.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=railway&logoColor=black" />
+  <img
+    src="https://img.shields.io/badge/Live_Demo-00FF41?style=for-the-badge&logo=railway&logoColor=black"
+    alt="Live Demo"
+  />
 </a>
 
 </p>
@@ -104,17 +124,19 @@ A web application developed using **Java, Spring Boot, Thymeleaf and MySQL** to 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Kavin-01-M&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"
-    alt="Kavin GitHub Stats"
-  />
 
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-01-M&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"
-    alt="Top Languages"
-  />
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=Kavin-01-M&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"
+  alt="Kavin GitHub Stats"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-01-M&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"
+  alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
@@ -137,17 +159,6 @@ A web application developed using **Java, Spring Boot, Thymeleaf and MySQL** to 
 
 ---
 
-## 🎯 2026 Goals
-
-- Master Spring Boot
-- Learn React
-- Improve Data Structures and Algorithms
-- Build more full-stack projects
-- Contribute to open-source projects
-- Improve problem-solving skills
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -161,20 +172,40 @@ A web application developed using **Java, Spring Boot, Thymeleaf and MySQL** to 
 
 ---
 
+## 🎯 2026 Goals
+
+- Master Spring Boot
+- Learn React
+- Improve Data Structures and Algorithms
+- Build more full-stack projects
+- Contribute to open-source projects
+- Improve problem-solving skills
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:kavinmanivel81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  <img
+    src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://github.com/Kavin-01-M">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img
+    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -182,7 +213,11 @@ A web application developed using **Java, Spring Boot, Thymeleaf and MySQL** to 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
 
 <h3 align="center">💚 Thanks for visiting my profile 💚</h3>
