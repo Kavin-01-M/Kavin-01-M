@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-  <img src="./one piece.jpg" width="100%">
+  <img src="./zenitsu.jpg" width="100%">
 </p>
 
 <!-- ================= INTRO ================= -->
